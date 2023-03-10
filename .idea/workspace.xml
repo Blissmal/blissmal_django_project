@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a5361d-4fd6-4f90-9542-012be769e453" name="Changes" comment="" />
+    <list default="true" id="a3a5361d-4fd6-4f90-9542-012be769e453" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/login_register.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/login_register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/StudyBud" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,6 +95,11 @@
       <workItem from="1678077591138" duration="10987000" />
       <workItem from="1678164100783" duration="9334000" />
       <workItem from="1678250836028" duration="4066000" />
+      <workItem from="1678344831407" duration="899000" />
+      <workItem from="1678423527462" duration="931000" />
+      <workItem from="1678427027398" duration="62000" />
+      <workItem from="1678427417913" duration="1747000" />
+      <workItem from="1678430566445" duration="1885000" />
     </task>
     <servers />
   </component>
